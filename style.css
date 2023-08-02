@@ -15,7 +15,7 @@ body {
 .container {
   width: 600px;
   height: 400px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   margin-inline: auto;
 
   display: grid;
